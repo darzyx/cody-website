@@ -1,15 +1,15 @@
 function App() {
   return (
-    <div className="container">
-      <div className="box"></div>
-      <div className="nav-button-group">
-        <div className="line"></div>
-        <button className="nav-button">About</button>
-        <div className="line"></div>
-        <button className="nav-button">Portfolio</button>
-        <div className="hidden-line"></div>
-        <button className="nav-button">Contact</button>
-        <div className="line"></div>
+    <div class="container">
+      <div class="box"></div>
+      <div class="nav-button-group">
+        <div class="line"></div>
+        <button class="nav-button">About</button>
+        <div class="line"></div>
+        <button class="nav-button">Portfolio</button>
+        <div class="hidden-line"></div>
+        <button class="nav-button">Contact</button>
+        <div class="line"></div>
       </div>
     </div>
   );
